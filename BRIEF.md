@@ -10,7 +10,7 @@ Layout je Woche variieren: Schritt-Karussell, Mythos/Fakt, Checkliste mit 01/02/
 
 ## Themen (Rotation)
 Breathwork, Hypnose, luzides Traeumen, Achtsamkeit/Gefuehle, Nervensystem/Stress, Impro/Leichtigkeit ("Ja, und"), Schlaf, Lampenfieber, Persoenliches (nur mit Fotos/Geschichten von Jens). Events (Sessions, Erstgespraech) hoechstens jeder 4.-5. Beitrag als Haupt-CTA, sonst 1 Zeile in der Caption.
-Inhalte stammen aus Jens' Podcast-Transkripten (Original nur lokal, nicht im Repo) und eigenem Wissen. Keine medizinischen Versprechen. Bei Breathwork: Hinweis "intensive Techniken begleitet, bei gesundheitlichen Fragen aerztlich klaeren". Hypnose: "ersetzt keine Therapie".
+HAUPTQUELLE sind Jens' Podcast-Transkripte (privat in Dropbox: /Instakram/Transkripte/, dort Themenbank_Hier_und_Jens.md und, sobald von Jens abgelegt, die komplette Transkript-Datei; NIE ins Repo legen, Repo ist oeffentlich). Neue Beitraege zuerst aus den Transkripten ableiten (Haken, Geschichte/Beispiel, Uebung in Jens' Wortwahl), eigenes Allgemeinwissen nur ergaenzend. Pro Beitrag die Quell-Folge in calendar.md notieren. Persoenliches zu Gesundheit/Depression, Tantra, Massage nur mit ausdruecklicher Freigabe von Jens. Keine medizinischen Versprechen. Bei Breathwork: Hinweis "intensive Techniken begleitet, bei gesundheitlichen Fragen aerztlich klaeren". Hypnose: "ersetzt keine Therapie".
 
 ## Rhythmus
 3 Posts/Woche: Mo 10:30, Mi 10:00, Fr 10:00 (Europe/Berlin). Beste Zeiten laut Metricool: Mi/Do/Fr 10:00, Mo 10-11, zweitens ca. 18:00.

@@ -1,6 +1,6 @@
-# Content-Kalender (Stand 2026-11-17)
+# Content-Kalender (Stand 2026-11-18)
 
-Letzter Muster-Offset `start`: 48 (naechster: 54)
+Letzter Muster-Offset `start`: 60 (naechster: 66)
 
 | Datum | Thema | Ordner | Status |
 |---|---|---|---|
@@ -13,9 +13,13 @@ Letzter Muster-Offset `start`: 48 (naechster: 54)
 | Mo 30.11. 10:30 | Impro "Ja, und" | 2026-11-30-impro-ja-und | Entwurf |
 | Mi 02.12. 10:00 | Schlaf, 3 Abend-Rituale (NV/LB, Checkliste) | 2026-12-02-schlaf-abendritual | Entwurf |
 | Fr 04.12. 10:00 | Lampenfieber, 3 Schritte (Serif, BS/BL, Zoom) | 2026-12-04-lampenfieber | Entwurf |
+| Mo 07.12. 10:30 | Das andere Boot ist leer (Quelle: Folge 25) | 2026-12-07-das-andere-boot | Entwurf |
+| Mi 09.12. 10:00 | Regenschirm-Geschichte + Gehuebung (Quelle: Folge 42, 35) | 2026-12-09-regenschirm | Entwurf |
 
 ## Learnings
 (noch keine Daten)
 
 Naechste Themen-Ideen: Nervensystem/Stress (anderes Layout), Persoenliches (braucht Fotos von Jens), Hypnose-Vorstellung, Impro/Leichtigkeit. Event 29.11. ist danach vorbei: keine Event-CTA mehr, ggf. Erstgespraech.
 Alt-Texte der Entwuerfe vom 18.11.-30.11. am 17.11. ergaenzt.
+
+Hinweis 18.11.: Schlaf (02.12.) und Lampenfieber (04.12.) basieren auf Allgemeinwissen, nicht auf den Transkripten (dort kaum Material). Ggf. durch Transkript-Themen ersetzen.
