@@ -1,9 +1,10 @@
 # Content-Kalender (Stand 2026-11-18)
 
-Letzter Muster-Offset `start`: 60 (naechster: 66)
+Letzter Muster-Offset `start`: 66 (naechster: 72)
 
 | Datum | Thema | Ordner | Status |
 |---|---|---|---|
+| Mi 18.11. 17:00 | Nichts ist von Dauer (LB/BL, Serif; Quelle: Folge 35) | 2026-11-18-nichts-ist-von-dauer | geplant (von Jens ausdruecklich freigegeben, nicht Entwurf) |
 | Mo 16.11. 11:00 | Gedankenkarussell | 2026-11-16-gedankenkarussell | geplant (freigegeben) |
 | Mi 18.11. 10:00 | Breathwork + Event-CTA | 2026-11-18-breathwork-mehr-als-atmen | Entwurf |
 | Fr 20.11. 10:00 | Hypnose, 3 Mythen | 2026-11-20-hypnose-drei-mythen | Entwurf |
