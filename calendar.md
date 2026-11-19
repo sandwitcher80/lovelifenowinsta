@@ -1,4 +1,4 @@
-# Content-Kalender (Stand 2026-11-18)
+# Content-Kalender (Stand 2026-11-19)
 
 Letzter Muster-Offset `start`: 66 (naechster: 72)
 
@@ -24,3 +24,4 @@ Naechste Themen-Ideen: Nervensystem/Stress (anderes Layout), Persoenliches (brau
 Alt-Texte der Entwuerfe vom 18.11.-30.11. am 17.11. ergaenzt.
 
 Hinweis 18.11.: Schlaf (02.12.) und Lampenfieber (04.12.) basieren auf Allgemeinwissen, nicht auf den Transkripten (dort kaum Material). Ggf. durch Transkript-Themen ersetzen.
+Hinweis 19.11.: Vorlauf bis 09.12. (20 Tage), nichts neu gebaut. Entwurf 23.11. um Teilen-CTA ergaenzt. Naechster Bedarf: Fr 11.12. (Offset 72).
