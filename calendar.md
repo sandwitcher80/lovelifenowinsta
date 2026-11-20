@@ -1,6 +1,6 @@
-# Content-Kalender (Stand 2026-11-19)
+# Content-Kalender (Stand 2026-11-20)
 
-Letzter Muster-Offset `start`: 66 (naechster: 72)
+Letzter Muster-Offset `start`: 72 (naechster: 78)
 
 | Datum | Thema | Ordner | Status |
 |---|---|---|---|
@@ -16,6 +16,7 @@ Letzter Muster-Offset `start`: 66 (naechster: 72)
 | Fr 04.12. 10:00 | Lampenfieber, 3 Schritte (Serif, BS/BL, Zoom) | 2026-12-04-lampenfieber | Entwurf |
 | Mo 07.12. 10:30 | Das andere Boot ist leer (Quelle: Folge 25) | 2026-12-07-das-andere-boot | Entwurf |
 | Mi 09.12. 10:00 | Regenschirm-Geschichte + Gehuebung (Quelle: Folge 42, 35) | 2026-12-09-regenschirm | Entwurf |
+| Fr 11.12. 10:00 | Getriggert? Nicht wieder bei null (BS/BL, Serif, Zoom; Quelle: Folge 25, Kerngedanke Trigger) | 2026-12-11-getriggert-nicht-bei-null | Entwurf |
 
 ## Learnings
 (noch keine Daten)
@@ -25,3 +26,4 @@ Alt-Texte der Entwuerfe vom 18.11.-30.11. am 17.11. ergaenzt.
 
 Hinweis 18.11.: Schlaf (02.12.) und Lampenfieber (04.12.) basieren auf Allgemeinwissen, nicht auf den Transkripten (dort kaum Material). Ggf. durch Transkript-Themen ersetzen.
 Hinweis 19.11.: Vorlauf bis 09.12. (20 Tage), nichts neu gebaut. Entwurf 23.11. um Teilen-CTA ergaenzt. Naechster Bedarf: Fr 11.12. (Offset 72).
+Hinweis 20.11.: Entwurf 11.12. neu (Offset 72). Vorlauf bis 11.12. (21 Tage). Alle Entwuerfe gegen Checkliste geprueft, keine Aenderungen noetig. Naechster Bedarf: Mo 14.12. (Offset 78). Volltext-Transkript liegt weiter nicht in Dropbox, nur Themenbank.
