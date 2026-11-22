@@ -13,7 +13,7 @@ Breathwork, Hypnose, luzides Traeumen, Achtsamkeit/Gefuehle, Nervensystem/Stress
 HAUPTQUELLE sind Jens' Podcast-Transkripte (privat in Dropbox: /Instakram/Transkripte/, dort Themenbank_Hier_und_Jens.md und, sobald von Jens abgelegt, die komplette Transkript-Datei; NIE ins Repo legen, Repo ist oeffentlich). Neue Beitraege zuerst aus den Transkripten ableiten (Haken, Geschichte/Beispiel, Uebung in Jens' Wortwahl), eigenes Allgemeinwissen nur ergaenzend. Pro Beitrag die Quell-Folge in calendar.md notieren. Persoenliches zu Gesundheit/Depression, Tantra, Massage nur mit ausdruecklicher Freigabe von Jens. Keine medizinischen Versprechen. Bei Breathwork: Hinweis "intensive Techniken begleitet, bei gesundheitlichen Fragen aerztlich klaeren". Hypnose: "ersetzt keine Therapie".
 
 ## Rhythmus
-3 Posts/Woche: Mo 10:30, Mi 10:00, Fr 10:00 (Europe/Berlin). Beste Zeiten laut Metricool: Mi/Do/Fr 10:00, Mo 10-11, zweitens ca. 18:00.
+4 Posts/Woche (ab 22.11.2026): Mo 10:30 Karussell, Mi 10:00 Karussell, Do 18:00 REEL, Fr 10:00 Karussell (Europe/Berlin). Ziel: mehr Reels und Karussells; Reels wachsen Reichweite bei Fremden, Karussells bringen Saves/Shares. Beste Zeiten laut Metricool: Mi/Do/Fr 10:00, Mo 10-11, zweitens ca. 18:00; Wochenende schwach.
 Immer mind. 14 Tage Vorlauf als Entwurf in Metricool (Brand 8126656, Instagram, draft:true, instagramData.type POST).
 
 ## Post-Ready-Checkliste (jeden Entwurf pruefen)
@@ -31,3 +31,15 @@ Montags: Metricool-Analytics der letzten 7/30 Tage ziehen (Reichweite, Saves, Sh
 
 ## Git
 Commit-Trailer: `Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>` und `Claude-Session: <aktuelle Session-URL>`. Bilder oeffentlich via raw.githubusercontent.com/sandwitcher80/lovelifenowinsta/main/posts/<ordner>/slide_N.png.
+
+
+## Learnings aus Vorbildern (Screenshots von Jens, 22.11.2026: Accounts @pathionai, @jayantcreates.ai, Anzeige von @albertschulz)
+Achtung: Das sind Accounts, die ein Produkt verkaufen; Zahlen (37k Follower, 55 Skills) sind Marketing. Wir uebernehmen nur die Mechaniken. Das Plugin selbst (Ootto claude-content-skills) ist hier nicht installierbar (kein Netz); die Ideen setzen wir selbst um.
+1. Hook zuerst, ein Satz, kuehne Aussage + ein Akzentwort in Serif-Kursiv (wie "unlimited reels", "next posts"). Wir nutzen das: pro Headline hoechstens ein kursives Akzentwort.
+2. Slide-Dramaturgie: 1 Hook, 2 Problem/Trick, 3 So geht's, 4 Beweis/Beispiel, ..., vorletzter Slide Zusammenfassung, letzter Slide CTA. Kleines Label ueber der Headline (z. B. "DER TRICK") auf jedem Slide.
+3. Content-Factory-Ablauf fuer jeden neuen Beitrag: (1) bewaehrtes Format suchen, (2) Format Slide fuer Slide/Frame fuer Frame studieren, (3) 10 Haken schreiben, den besten behalten, (4) in Jens' Stimme skripten, (5) Beat fuer Beat bauen, (6) Caption + Hashtags, (7) Kommentare -> DM-Schleife.
+4. Comment-Mining: Fragen aus Jens' Kommentaren/DMs (letzte 30-100) sammeln und daraus naechste Beitraege machen. Dafuer braucht es Jens' eingefuegte Kommentare/DMs (oder Metricool-Inbox, falls vorhanden). Datei: community-fragen.md im Repo (nur Fragen, ohne Namen).
+5. Kommentar-Keyword-CTA: In einzelnen Beitraegen "Schreib ATEM in die Kommentare, ich schicke dir die Uebung" (viele Kommentare = starkes Signal). Antwort-DM per Hand oder Automations-Tool von Jens (z. B. ManyChat), nicht ueber Metricool moeglich.
+6. Reels ohne Video-KI: Text-/Grafik-Reels per Code gerendert (tools/reel.py), kein Credit-Verbrauch. Hook in den ersten 2 Sekunden, Watch-Through durch Mitmach-Format (z. B. gefuehrte Atemuebung), Ende mit "Speichern fuer spaeter".
+7. Content-Multiplikator: 1 Idee -> Karussell + Reel + Zitat-Kachel + Story. Jede Idee mindestens als Karussell UND Reel denken (Reel zeitversetzt 1-2 Wochen spaeter).
+8. Titelbild/Cover jedes Reels = Hook als Text, damit das Profilraster einheitlich aussieht.

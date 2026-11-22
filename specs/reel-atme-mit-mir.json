@@ -1,0 +1,6 @@
+{"name":"2026-11-26-atme-mit-mir","start":78,"scenes":[
+ {"type":"text","text":"30 Sekunden. Atme mit mir.","accent":"Atme","secs":3,"pal":"BL","fs":104},
+ {"type":"text","text":"Ein 4 Sekunden. Aus 6 Sekunden.","secs":2.5,"pal":"BS","fs":84},
+ {"type":"breath","in":4,"out":6,"cycles":3,"pal":"BL"},
+ {"type":"text","text":"Spürst du den Unterschied?","accent":"Unterschied","secs":3,"pal":"BS","fs":92},
+ {"type":"end","text":"Speichern für später.","pal":"BL","secs":3.5,"fs":96}]}
