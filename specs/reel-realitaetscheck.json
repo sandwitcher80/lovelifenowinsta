@@ -1,0 +1,9 @@
+{"name":"2026-12-10-realitaetscheck","start":90,"scenes":[
+ {"type":"text","text":"Träume ich gerade?","accent":"gerade","secs":3,"pal":"NV","fs":108},
+ {"type":"text","text":"Stell dir diese Frage heute dreimal.","secs":3.5,"pal":"BS","fs":86},
+ {"type":"text","text":"1. Schau dich um. Was fällt dir auf?","secs":4.5,"pal":"BL","fs":84},
+ {"type":"text","text":"2. Lies einen Text. Dann lies ihn noch einmal.","secs":5,"pal":"NV","fs":80},
+ {"type":"text","text":"3. Spür deine Hände. Wie fühlen sie sich an?","secs":4.5,"pal":"BS","fs":80},
+ {"type":"text","text":"Im Traum sehen Texte beim zweiten Lesen oft anders aus.","secs":5,"pal":"BL","fs":76},
+ {"type":"text","text":"Wer das tagsüber übt, fragt vielleicht irgendwann auch im Traum.","secs":5.5,"pal":"NV","fs":72},
+ {"type":"end","text":"Speichern für später.","pal":"BS","secs":3.5,"fs":96}]}

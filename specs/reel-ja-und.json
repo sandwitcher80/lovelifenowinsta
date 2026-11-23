@@ -1,0 +1,10 @@
+{"name":"2026-12-03-ja-und-mitmachen","start":84,"scenes":[
+ {"type":"text","text":"Probier mal: „Ja, und“","accent":"und","secs":3,"pal":"BL","fs":90},
+ {"type":"text","text":"Denk an etwas, das dich gerade nervt.","secs":3.5,"pal":"BS","fs":84},
+ {"type":"text","text":"Sag: „Ja, aber …“ und spür kurz nach, wie sich das anfühlt.","secs":5,"pal":"NV","fs":76},
+ {"type":"text","text":"Jetzt: „Ja, und“","accent":"und","secs":3.5,"pal":"BL","fs":90},
+ {"type":"text","text":"Nimm an, was gerade ist. Und gib etwas dazu.","secs":4.5,"pal":"BS","fs":80},
+ {"type":"text","text":"„Ich bin müde.“ – „Ja, und ich mach uns einen Tee.“","secs":5.5,"pal":"NV","fs":76},
+ {"type":"text","text":"Dein Satz: „Ja, und …“ Sprich ihn laut aus.","accent":"und","secs":5,"pal":"BL","fs":84},
+ {"type":"text","text":"Merkst du den Unterschied?","accent":"Unterschied","secs":3.5,"pal":"BS","fs":92},
+ {"type":"end","text":"Speichern für später.","pal":"BL","secs":3.5,"fs":96}]}
