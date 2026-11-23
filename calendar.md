@@ -22,7 +22,7 @@ Letzter Muster-Offset `start`: 90 (naechster: 96)
 | Fr 11.12. 10:00 | Getriggert? Nicht wieder bei null (BS/BL, Serif, Zoom; Quelle: Folge 25, Kerngedanke Trigger) | 2026-12-11-getriggert-nicht-bei-null | Entwurf |
 
 ## Learnings
-(noch keine Daten)
+Stand 23.11. (30 Tage, nur 3 veroeffentlichte Feed-Karussells, kleine Zahlen, noch keine Aussagekraft): Gedankenkarussell 16.11.: Reichweite 84, 2 Speicherungen, 1 Share, 0 Follower, 12 Interaktionen. Nichts ist von Dauer 18.11.: Reichweite 54, 0 Saves/Shares, 8 Interaktionen. Breathwork 22.11.: Reichweite 15 (erst 1 Tag alt), 3 Interaktionen. Tendenz: Persoenlicher Zitat-Haken ("Wer nicht fuehlen will, muss denken") schlug den Abstrakt-Impuls. Mehr Haken in Jens' Stimme, Reels testen (erstes Reel 26.11.). Reels-Daten folgen ab 27.11.
 
 Naechste Themen-Ideen: Nervensystem/Stress (anderes Layout), Persoenliches (braucht Fotos von Jens), Hypnose-Vorstellung, Impro/Leichtigkeit. Event 29.11. ist danach vorbei: keine Event-CTA mehr, ggf. Erstgespraech.
 Alt-Texte der Entwuerfe vom 18.11.-30.11. am 17.11. ergaenzt.
