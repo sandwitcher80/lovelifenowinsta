@@ -1,6 +1,6 @@
-# Content-Kalender (Stand 2026-11-23)
+# Content-Kalender (Stand 2026-11-24)
 
-Letzter Muster-Offset `start`: 90 (naechster: 96)
+Letzter Muster-Offset `start`: 102 (naechster: 108)
 
 | Datum | Thema | Ordner | Status |
 |---|---|---|---|
@@ -19,6 +19,8 @@ Letzter Muster-Offset `start`: 90 (naechster: 96)
 | Fr 04.12. 10:00 | Lampenfieber, 3 Schritte (Serif, BS/BL, Zoom) | 2026-12-04-lampenfieber | Entwurf |
 | Mo 07.12. 10:30 | Das andere Boot ist leer (Quelle: Folge 25) | 2026-12-07-das-andere-boot | Entwurf |
 | Mi 09.12. 10:00 | Regenschirm-Geschichte + Gehuebung (Quelle: Folge 42, 35) | 2026-12-09-regenschirm | Entwurf |
+| Mo 14.12. 10:30 | Gut oder schlecht? Spektrum (NV/LB; Quelle: Folge 35) | 2026-12-14-gut-oder-schlecht-spektrum | Entwurf |
+| Do 17.12. 18:00 | REEL: Wie fuehlst du dich? Innehalten + Atemuebung (Quelle: Folge 44) | reels/2026-12-17-wie-fuehlst-du-dich | Entwurf |
 | Fr 11.12. 10:00 | Getriggert? Nicht wieder bei null (BS/BL, Serif, Zoom; Quelle: Folge 25, Kerngedanke Trigger) | 2026-12-11-getriggert-nicht-bei-null | Entwurf |
 
 ## Learnings
@@ -35,3 +37,5 @@ Hinweis 21.11.: Vorlauf bis 11.12. (20 Tage), nichts neu gebaut, alle Entwuerfe 
 Hinweis 22.11.: Jens wuenscht 4 Posts/Woche und mehr Reels (Do 18:00 = Reel). Reel-Tool tools/reel.py, Spec specs/reel-*.json. Erster Reel gebaut. Weitere Reel-Ideen: Ja-und-Impro-Mitmachreel, Lampenfieber-3-Schritte, Realitaetscheck luzides Traeumen, Abend-Atem 4-6 (Schlaf). Learnings aus Vorbild-Screenshots stehen in BRIEF.md. Plan: ab 26.11. jede Woche Do 18:00 ein Reel; Vorlauf Reels 14 Tage.
 
 Hinweis 23.11.: 2 Reels gebaut (03.12., 10.12.). Vorlauf: Karussells bis 11.12., Reels bis 10.12. Naechster Bedarf: Mo 14.12. Karussell, Mi 16.12. Karussell, Do 17.12. Reel (Idee: Lampenfieber-3-Schritte oder Abend-Atem 4-6), Offset 96. Entwurf Di 24.11. (Hypnose) liegt ausserhalb des Rhythmus, unveraendert gelassen.
+
+Hinweis 24.11.: Vorlauf war 17 Tage (Karussells bis 11.12., Reels bis 10.12.). Neu: Mo 14.12. Karussell (Folge 35) und Do 17.12. Reel (Folge 44, 46 s). Alle Entwuerfe gegen Checkliste geprueft, keine Aenderungen noetig. Naechster Bedarf: Mi 16.12. Karussell (Folge 48 luzides Traeumen oder 37 Breathwork-Basics), Fr 18.12. Karussell, Do 24.12. Reel (Weihnachten: ggf. ruhiges Atem-Reel), Offset 108. Entwurf Di 24.11. (Hypnose) liegt ausserhalb des Rhythmus, unveraendert.
