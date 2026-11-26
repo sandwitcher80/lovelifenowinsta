@@ -1,6 +1,6 @@
-# Content-Kalender (Stand 2026-11-25)
+# Content-Kalender (Stand 2026-11-26)
 
-Letzter Muster-Offset `start`: 114 (naechster: 120)
+Letzter Muster-Offset `start`: 126 (naechster: 132)
 
 | Datum | Thema | Ordner | Status |
 |---|---|---|---|
@@ -10,7 +10,7 @@ Letzter Muster-Offset `start`: 114 (naechster: 120)
 | Di 24.11. 10:00 | Hypnose, 3 Mythen (verschoben, 20.11. nicht freigegeben) | 2026-11-20-hypnose-drei-mythen | Entwurf |
 | Mi 16.12. 10:00 | Achtsamkeit, Gefuehl benennen (am 25.11. vom veralteten 23.11. verschoben) | 2026-11-23-achtsamkeit-gefuehl-benennen | Entwurf |
 | Do 26.11. 18:00 | REEL: 30 Sekunden Atme mit mir (gefuehrte Atemuebung 4-6) | reels/2026-11-26-atme-mit-mir | Entwurf |
-| Mi 25.11. 10:00 | Koerpercheck Stressmodus | 2026-11-25-koerpercheck-stressmodus | Entwurf |
+| Mi 23.12. 10:00 | Koerpercheck Stressmodus (am 26.11. vom abgelaufenen 25.11. verschoben, Event-Hinweis entfernt) | 2026-11-25-koerpercheck-stressmodus | Entwurf |
 | Do 03.12. 18:00 | REEL: Ja-und-Mitmachreel (Quelle: Impro-Thema, Allgemeinwissen) | reels/2026-12-03-ja-und-mitmachen | Entwurf |
 | Do 10.12. 18:00 | REEL: Realitaetscheck luzides Traeumen | reels/2026-12-10-realitaetscheck | Entwurf |
 | Fr 27.11. 10:00 | Luzides Traeumen | 2026-11-27-luzides-traeumen | Entwurf |
@@ -24,6 +24,8 @@ Letzter Muster-Offset `start`: 114 (naechster: 120)
 | Fr 11.12. 10:00 | Getriggert? Nicht wieder bei null (BS/BL, Serif, Zoom; Quelle: Folge 25, Kerngedanke Trigger) | 2026-12-11-getriggert-nicht-bei-null | Entwurf |
 | Fr 18.12. 10:00 | Breathwork-Basics, 3 Dinge vor der ersten Session (BL/BS; Quelle: Folge 37 laut Themenbank + Allgemeinwissen) | 2026-12-18-breathwork-basics | Entwurf |
 | Mo 21.12. 10:30 | Jahresende: Was darf bleiben, was gehen? (NV/LB, Serif, Zoom; Quelle: Folge 40/51 Themenbank + Folge 35 Kerngedanke) | 2026-12-21-jahresende-rueckblick | Entwurf |
+| Do 24.12. 18:00 | REEL: Eine Minute nur fuer dich (ruhig, 4/6-Atmung; Quelle: Folge 35 Koerpergefuehl-Basisuebung) | reels/2026-12-24-eine-minute-ankommen | Entwurf |
+| Mo 28.12. 10:30 | Mythos/Fakt: Gefuehle in den Griff kriegen? (BS/BL; Quelle: Folge 13 Emotionen, Themenbank) | 2026-12-28-gefuehle-mythos-fakt | Entwurf |
 
 ## Learnings
 Stand 23.11. (30 Tage, nur 3 veroeffentlichte Feed-Karussells, kleine Zahlen, noch keine Aussagekraft): Gedankenkarussell 16.11.: Reichweite 84, 2 Speicherungen, 1 Share, 0 Follower, 12 Interaktionen. Nichts ist von Dauer 18.11.: Reichweite 54, 0 Saves/Shares, 8 Interaktionen. Breathwork 22.11.: Reichweite 15 (erst 1 Tag alt), 3 Interaktionen. Tendenz: Persoenlicher Zitat-Haken ("Wer nicht fuehlen will, muss denken") schlug den Abstrakt-Impuls. Mehr Haken in Jens' Stimme, Reels testen (erstes Reel 26.11.). Reels-Daten folgen ab 27.11.
@@ -43,3 +45,5 @@ Hinweis 23.11.: 2 Reels gebaut (03.12., 10.12.). Vorlauf: Karussells bis 11.12.,
 Hinweis 24.11.: Vorlauf war 17 Tage (Karussells bis 11.12., Reels bis 10.12.). Neu: Mo 14.12. Karussell (Folge 35) und Do 17.12. Reel (Folge 44, 46 s). Alle Entwuerfe gegen Checkliste geprueft, keine Aenderungen noetig. Naechster Bedarf: Mi 16.12. Karussell (Folge 48 luzides Traeumen oder 37 Breathwork-Basics), Fr 18.12. Karussell, Do 24.12. Reel (Weihnachten: ggf. ruhiges Atem-Reel), Offset 108. Entwurf Di 24.11. (Hypnose) liegt ausserhalb des Rhythmus, unveraendert.
 
 Hinweis 25.11.: Vorlauf bis 21.12. (26 Tage). Veralteter Entwurf 23.11. (Achtsamkeit) auf Mi 16.12. verschoben. Neu: Fr 18.12. Breathwork-Basics, Mo 21.12. Jahresende. Dropbox enthaelt weiter nur die Themenbank, kein Volltext. Naechster Bedarf: Mi 23.12. Karussell, Do 24.12. Reel (ruhiges Atem-Reel/Weihnachten), Fr 25.12. (Feiertag, evtl. auslassen), Offset 120. Entwuerfe Mi 25.11. (heute 10:00) und Do 26.11. laufen ohne Freigabe ab, falls Jens nicht freigibt.
+
+Hinweis 26.11.: Vorlauf war bis 21.12. (25 Tage). Abgelaufenen Entwurf 25.11. (Koerpercheck) auf Mi 23.12. verschoben, Event-Hinweis (29.11.) aus Caption entfernt. Neu: Do 24.12. Reel (46 s) und Mo 28.12. Karussell. Fr 25.12. (Feiertag) bleibt frei. Fr 27.11. (Luzides Traeumen) enthaelt noch Event-Hinweis, nur bis 28.11. gueltig. Naechster Bedarf: Mi 30.12. Karussell, Do 31.12. Reel (Silvester), Offset 132. Dropbox weiter nur Themenbank, keine Volltexte. Kein Montag: keine Analytics.
