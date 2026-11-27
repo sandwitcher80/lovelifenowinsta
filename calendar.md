@@ -1,4 +1,4 @@
-# Content-Kalender (Stand 2026-11-26)
+# Content-Kalender (Stand 2026-11-27)
 
 Letzter Muster-Offset `start`: 126 (naechster: 132)
 
@@ -47,3 +47,5 @@ Hinweis 24.11.: Vorlauf war 17 Tage (Karussells bis 11.12., Reels bis 10.12.). N
 Hinweis 25.11.: Vorlauf bis 21.12. (26 Tage). Veralteter Entwurf 23.11. (Achtsamkeit) auf Mi 16.12. verschoben. Neu: Fr 18.12. Breathwork-Basics, Mo 21.12. Jahresende. Dropbox enthaelt weiter nur die Themenbank, kein Volltext. Naechster Bedarf: Mi 23.12. Karussell, Do 24.12. Reel (ruhiges Atem-Reel/Weihnachten), Fr 25.12. (Feiertag, evtl. auslassen), Offset 120. Entwuerfe Mi 25.11. (heute 10:00) und Do 26.11. laufen ohne Freigabe ab, falls Jens nicht freigibt.
 
 Hinweis 26.11.: Vorlauf war bis 21.12. (25 Tage). Abgelaufenen Entwurf 25.11. (Koerpercheck) auf Mi 23.12. verschoben, Event-Hinweis (29.11.) aus Caption entfernt. Neu: Do 24.12. Reel (46 s) und Mo 28.12. Karussell. Fr 25.12. (Feiertag) bleibt frei. Fr 27.11. (Luzides Traeumen) enthaelt noch Event-Hinweis, nur bis 28.11. gueltig. Naechster Bedarf: Mi 30.12. Karussell, Do 31.12. Reel (Silvester), Offset 132. Dropbox weiter nur Themenbank, keine Volltexte. Kein Montag: keine Analytics.
+
+Hinweis 27.11.: Vorlauf bis 28.12. (31 Tage), alle Slots Mo/Mi/Do/Fr bis dahin belegt (Fr 25.12. bewusst frei). Nichts neu gebaut, alle Entwuerfe gegen Checkliste geprueft, keine Aenderungen noetig. Kein Entwurf in der Vergangenheit. Naechster Bedarf: Mi 30.12. Karussell, Do 31.12. Reel (Silvester), Offset 132. Kein Montag: keine Analytics.
