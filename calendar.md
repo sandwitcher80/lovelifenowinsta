@@ -1,4 +1,4 @@
-# Content-Kalender (Stand 2026-11-27)
+# Content-Kalender (Stand 2026-11-28)
 
 Letzter Muster-Offset `start`: 126 (naechster: 132)
 
@@ -9,11 +9,11 @@ Letzter Muster-Offset `start`: 126 (naechster: 132)
 | So 22.11. 11:00 | Breathwork + Event-CTA (nachgeholt, Jens: "poste heute etwas") | 2026-11-18-breathwork-mehr-als-atmen | geplant (freigegeben) |
 | Di 24.11. 10:00 | Hypnose, 3 Mythen (verschoben, 20.11. nicht freigegeben) | 2026-11-20-hypnose-drei-mythen | Entwurf |
 | Mi 16.12. 10:00 | Achtsamkeit, Gefuehl benennen (am 25.11. vom veralteten 23.11. verschoben) | 2026-11-23-achtsamkeit-gefuehl-benennen | Entwurf |
-| Do 26.11. 18:00 | REEL: 30 Sekunden Atme mit mir (gefuehrte Atemuebung 4-6) | reels/2026-11-26-atme-mit-mir | Entwurf |
+| Do 31.12. 18:00 | REEL: 30 Sekunden Atme mit mir (gefuehrte Atemuebung 4-6; am 28.11. vom abgelaufenen 26.11. verschoben) | reels/2026-11-26-atme-mit-mir | Entwurf |
 | Mi 23.12. 10:00 | Koerpercheck Stressmodus (am 26.11. vom abgelaufenen 25.11. verschoben, Event-Hinweis entfernt) | 2026-11-25-koerpercheck-stressmodus | Entwurf |
 | Do 03.12. 18:00 | REEL: Ja-und-Mitmachreel (Quelle: Impro-Thema, Allgemeinwissen) | reels/2026-12-03-ja-und-mitmachen | Entwurf |
 | Do 10.12. 18:00 | REEL: Realitaetscheck luzides Traeumen | reels/2026-12-10-realitaetscheck | Entwurf |
-| Fr 27.11. 10:00 | Luzides Traeumen | 2026-11-27-luzides-traeumen | Entwurf |
+| Mi 30.12. 10:00 | Luzides Traeumen (am 28.11. vom abgelaufenen 27.11. verschoben, Event-Hinweis entfernt) | 2026-11-27-luzides-traeumen | Entwurf |
 | Mo 30.11. 10:30 | Impro "Ja, und" | 2026-11-30-impro-ja-und | Entwurf |
 | Mi 02.12. 10:00 | Schlaf, 3 Abend-Rituale (NV/LB, Checkliste) | 2026-12-02-schlaf-abendritual | Entwurf |
 | Fr 04.12. 10:00 | Lampenfieber, 3 Schritte (Serif, BS/BL, Zoom) | 2026-12-04-lampenfieber | Entwurf |
@@ -49,3 +49,5 @@ Hinweis 25.11.: Vorlauf bis 21.12. (26 Tage). Veralteter Entwurf 23.11. (Achtsam
 Hinweis 26.11.: Vorlauf war bis 21.12. (25 Tage). Abgelaufenen Entwurf 25.11. (Koerpercheck) auf Mi 23.12. verschoben, Event-Hinweis (29.11.) aus Caption entfernt. Neu: Do 24.12. Reel (46 s) und Mo 28.12. Karussell. Fr 25.12. (Feiertag) bleibt frei. Fr 27.11. (Luzides Traeumen) enthaelt noch Event-Hinweis, nur bis 28.11. gueltig. Naechster Bedarf: Mi 30.12. Karussell, Do 31.12. Reel (Silvester), Offset 132. Dropbox weiter nur Themenbank, keine Volltexte. Kein Montag: keine Analytics.
 
 Hinweis 27.11.: Vorlauf bis 28.12. (31 Tage), alle Slots Mo/Mi/Do/Fr bis dahin belegt (Fr 25.12. bewusst frei). Nichts neu gebaut, alle Entwuerfe gegen Checkliste geprueft, keine Aenderungen noetig. Kein Entwurf in der Vergangenheit. Naechster Bedarf: Mi 30.12. Karussell, Do 31.12. Reel (Silvester), Offset 132. Kein Montag: keine Analytics.
+
+Hinweis 28.11.: Vorlauf bis 31.12. (33 Tage). Zwei abgelaufene, nie veroeffentlichte Entwuerfe (Reel 26.11., Karussell 27.11.) auf Do 31.12. bzw. Mi 30.12. verschoben; Event-Hinweis (29.11.) aus Luzides-Caption entfernt. Nichts neu gebaut (Vorlauf weit ueber 14 Tage), keine community-fragen.md vorhanden. Kein Montag: keine Analytics. Naechster Bedarf: Fr 01.01. (Neujahr, evtl. frei), Mo 04.01. Karussell, Mi 06.01. Karussell, Do 07.01. Reel, Offset 132. Metricool-Tipp: updateScheduledPost ohne twitterData senden.
